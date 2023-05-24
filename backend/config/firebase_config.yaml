@@ -1,0 +1,5 @@
+AUTH:
+  AUTH_FILE_PATH: "config/firebase_realtime-database_authkey.json"
+URL:
+  RTDB_URL: "https://backend-test-db3f5-default-rtdb.firebaseio.com/"
+  STORAGE_URL: "backend-test-db3f5.appspot.com"
